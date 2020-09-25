@@ -1,17 +1,20 @@
+#KillFrenzy's Avatar Keyboard
+A custom avatar keyboard that takes advantage of parameter sync. Also includes a custom marker and works in Desktop mode.
+
 Installation Instructions are a work in progress. YouTube tutorial will be released soon.
 
-Prerequisites:
+# Prerequisites
 - Unity 2018.4.20f1
 - VRCSDK3
 - An existing working avatar (if installing to your own custom avatar)
 
-Uploading the Example Avatar:
+# Uploading the Example Avatar
 1. Import the "KillFrenzyKeyboard.unitypackage" into your project.
 2. Open the scene located in "Assets/KillFrenzy/Animations/Keyboard/Examples/ExampleAvatar.unity".
 3. Open the VRCSDK Control Panel and login to your account.
 4. Build & Publish the "Vrchat_Tutorial_Avatar" model.
 
-Installation to Custom Avatar:
+# Installation to Custom Avatar
 1. Import the "KillFrenzyKeyboard.unitypackage" into your project.
 2. Insert the prefab into your scene. The prefab is located in "Assets/KillFrenzy/Animations/Keyboard/Examples/AvatarKeyboardParts.unity".
 3. Unpack the prefab by right clicking "AvatarKeyboardParts" and pressing "Unpack Prefab".
