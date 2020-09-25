@@ -35,5 +35,6 @@ Installation Instructions are a work in progress. YouTube tutorial will be relea
 18. Customize your Expressions.
 19. Insert the VRC Expression Menu from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardMenu" into the the Menu.
 20. Insert the VRC Expression Paramaters from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardParams" into the the Parameters.
-21. Open the VRCSDK Control Panel and login to your account.
-22. Build & Publish your custom model.
+21. Move the game object "KillFrenzyKeyboardEffects" into the root of your own avatar.
+22. Open the VRCSDK Control Panel and login to your account.
+23. Build & Publish your custom model.
