@@ -29,7 +29,7 @@ Installation Instructions are a work in progress. YouTube tutorial will be made 
 12. Add a rotation constraint to the duplicated neck bone. Add the original neck bone into the Sources. Activate the constraint.
 13. Add a rotation constraint to the duplicated head bone (inside of of the duplicated neck bone). Add the original head bone into the Sources. Activate the constraint.
 14. Delete all game objects that may be inside the duplicated head bone.
-15. Move the game object from "ArmatureAndThat/Right wrist/Joint_DesktopAim" into the duplicated head bone.
+15. Move the game object from "ArmatureAndThat/Head2/Joint_DesktopAim" into the duplicated head bone.
 16. Browse to your VRC Avatar Descriptor.
 17. Customize your PlayableLayers.
 18. Insert the animator controller from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardControllerAction" into the Action layer.
