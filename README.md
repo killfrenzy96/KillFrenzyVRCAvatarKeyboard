@@ -1,7 +1,7 @@
 # KillFrenzy's Avatar Keyboard
 A custom avatar keyboard that takes advantage of parameter sync. Also includes a custom marker and works in Desktop mode.
 
-Installation Instructions are a work in progress. YouTube tutorial will be released soon.
+Installation Instructions are a work in progress. YouTube tutorial will be made if there is enough demand.
 
 # Prerequisites
 - Unity 2018.4.20f1
