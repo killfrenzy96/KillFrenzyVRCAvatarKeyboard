@@ -5,6 +5,8 @@ Installation Instructions are a work in progress.
 
 YouTube installation tutorial: https://youtu.be/KKwooIiTcLs
 
+If you just wanted a simple version of the marker from this keyboard, I have packaged it up here: https://github.com/killfrenzy96/KillFrenzyVRCMarker
+
 # Prerequisites
 - Unity 2018.4.20f1
 - VRCSDK3
