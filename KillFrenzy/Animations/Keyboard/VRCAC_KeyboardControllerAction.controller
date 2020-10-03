@@ -12863,7 +12863,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 59
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102101622423685500}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -13294,7 +13294,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 26
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102795707006361348}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -13419,7 +13419,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102841695917295384}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -13741,7 +13741,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 11
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102321390589944762}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -13938,7 +13938,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 60
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102470742888061348}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -13985,7 +13985,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102417615897719676}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -14607,7 +14607,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 8
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102879051043643950}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -15310,7 +15310,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 6
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102670543186005670}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -16007,7 +16007,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102830063931205946}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -16204,7 +16204,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 29
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102813216297380008}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -17132,7 +17132,7 @@ AnimatorStateTransition:
     m_ConditionEvent: GestureRightWeight
     m_EventTreshold: 0.05
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102922483736283032}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -17304,7 +17304,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102699143026515416}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -17504,7 +17504,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 5
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102018258243961182}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -18744,7 +18744,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 63
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102885813777156282}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -18769,7 +18769,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102864842966791498}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -19269,7 +19269,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 15
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102400121321943184}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -20334,7 +20334,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 31
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102270649948519832}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -21068,7 +21068,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 62
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102111644489157580}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -22162,7 +22162,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 64
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102898509790301932}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -22362,7 +22362,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 2
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102166176721648852}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -22406,7 +22406,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102855029328852216}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -22590,7 +22590,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 4
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102483176215459364}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -23318,7 +23318,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102375916830302180}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -24490,7 +24490,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 9
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102673942701214442}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -24815,7 +24815,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 3
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102750092423130364}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -25428,7 +25428,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerGesture
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102715091034864410}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -25531,7 +25531,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 92
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102832977679681996}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -25656,7 +25656,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 13
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102444664834875698}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -25750,7 +25750,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102212338655436976}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -25825,7 +25825,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 61
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102138348630903496}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -27813,7 +27813,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102855029328852216}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -27938,7 +27938,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102699143026515416}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -30895,7 +30895,7 @@ AnimatorStateTransition:
     m_ConditionEvent: GestureLeft
     m_EventTreshold: 3
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102799356342166318}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -31535,7 +31535,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 10
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102750807821845032}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -32100,7 +32100,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 91
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102711814797025076}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -32494,7 +32494,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 32
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102014701574257054}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -34031,7 +34031,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 28
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102837665317585708}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -34234,7 +34234,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 12
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102552191909543284}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -34581,7 +34581,7 @@ AnimatorStateTransition:
     m_ConditionEvent: ItemRight
     m_EventTreshold: 1
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102715091034864410}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -35497,7 +35497,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 94
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102347412688346862}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -35525,7 +35525,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102841695917295384}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -35969,7 +35969,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102841695917295384}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -36691,7 +36691,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102039834780778860}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -37725,7 +37725,7 @@ AnimatorStateTransition:
     m_ConditionEvent: GestureRight
     m_EventTreshold: 5
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102459323797128990}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -37847,7 +37847,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 30
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102291797474847822}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -38709,7 +38709,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102712553033900860}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -40258,7 +40258,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 93
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102575579293170738}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -41642,7 +41642,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 27
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102862476030743734}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -41948,7 +41948,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102841695917295384}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -44488,7 +44488,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 7
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102187779926971656}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -45182,7 +45182,7 @@ AnimatorStateTransition:
     m_ConditionEvent: MarkerToggle
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102039834780778860}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -45950,7 +45950,7 @@ AnimatorStateTransition:
     m_ConditionEvent: GestureRightWeight
     m_EventTreshold: 0.05
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102477138920783352}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -46353,7 +46353,7 @@ AnimatorStateTransition:
     m_ConditionEvent: TriggerLetter
     m_EventTreshold: 14
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102000023367169612}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -46647,7 +46647,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102255712051916978}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
@@ -54540,7 +54540,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 787bd4581fa0ecf4fbe81e04836df010, type: 2}
+  m_Motion: {fileID: 7400000, guid: be49e0822c207b54a9f3488fd66f59b9, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -57851,7 +57851,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 536f2ff01c32ab342bfca046115ac790, type: 2}
+  m_Motion: {fileID: 7400000, guid: d8ccbc754bc37024594b43eaa6edc1f4, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -59115,7 +59115,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 536f2ff01c32ab342bfca046115ac790, type: 2}
+  m_Motion: {fileID: 7400000, guid: d8ccbc754bc37024594b43eaa6edc1f4, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -63364,7 +63364,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 787bd4581fa0ecf4fbe81e04836df010, type: 2}
+  m_Motion: {fileID: 7400000, guid: be49e0822c207b54a9f3488fd66f59b9, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -69881,7 +69881,7 @@ AnimatorTransition:
   m_Name: 
   m_Conditions: []
   m_DstStateMachine: {fileID: 0}
-  m_DstState: {fileID: 1102063913812859686}
+  m_DstState: {fileID: 0}
   m_Solo: 0
   m_Mute: 0
   m_IsExit: 0
