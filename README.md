@@ -1,7 +1,7 @@
 # KillFrenzy's Avatar Keyboard
 A custom avatar keyboard that takes advantage of parameter sync. Also includes a custom marker and works in Desktop mode.
 
-![KeyboardPreview]https://i.imgur.com/4sguCj5.gif
+![KeyboardPreview](https://i.imgur.com/4sguCj5.gif)
 
 Installation Instructions are a work in progress.
 
