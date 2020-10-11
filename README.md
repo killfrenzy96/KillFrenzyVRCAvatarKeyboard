@@ -42,7 +42,7 @@ If you wanted to try the Keyboard for yourself, you can check out the public ava
 17. Customize your PlayableLayers.
 18. Insert the animator controller from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardControllerAction" into the Action layer.
 19. Customize your Expressions.
-20. Insert the VRC Expression Menu from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardMenu" into the the Menu.
-21. Insert the VRC Expression Paramaters from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardParams" into the the Parameters.
+20. Insert the VRC Expression Menu from "Assets/KillFrenzy/Animations/Keyboard/VRCEM_KeyboardMenu" into the the Menu.
+21. Insert the VRC Expression Paramaters from "Assets/KillFrenzy/Animations/Keyboard/VRCEP_KeyboardParams" into the the Parameters.
 22. Open the VRCSDK Control Panel and login to your account.
 23. Build & Publish your custom model.
