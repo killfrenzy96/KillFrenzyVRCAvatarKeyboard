@@ -23,6 +23,8 @@ If you wanted to try the Keyboard for yourself, you can check out the public ava
 4. Build & Publish the "Vrchat_Tutorial_Avatar" model.
 
 # Installation to Custom Avatar
+Alternatively, see the YouTube Tutorial: https://youtu.be/KKwooIiTcLs
+
 1. Import the "KillFrenzyKeyboard.unitypackage" into your project.
 2. Insert the prefab into your scene. The prefab is located in "Assets/KillFrenzy/Animations/Keyboard/Examples/AvatarKeyboardParts.unity".
 3. Unpack the prefab by right clicking "AvatarKeyboardParts" and pressing "Unpack Prefab".
