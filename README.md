@@ -11,6 +11,8 @@ If you just wanted a simple version of the marker from this keyboard, I have pac
 
 If you wanted to try the Keyboard for yourself, you can check out the public avatar located in this world: https://www.vrchat.com/home/launch?worldId=wrld_49fc692a-6d11-49c4-9039-267abbfc6ec6
 
+Here's the download link: https://github.com/killfrenzy96/KillFrenzyVRCAvatarKeyboard/releases
+
 # Prerequisites
 - Unity 2018.4.20f1
 - VRCSDK3
