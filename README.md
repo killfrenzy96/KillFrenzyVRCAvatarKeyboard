@@ -51,6 +51,6 @@ Alternatively, see the YouTube Tutorial: https://youtu.be/KKwooIiTcLs
 22. Open the VRCSDK Control Panel and login to your account.
 23. Build & Publish your custom model.
 
-#Useful Tools
+# Useful Tools
 - VRCAvatars3Tools: This tool can be used to merge multiple animators together. Useful if you wanted to merge the keyboard into an existing animator for the FX layer.
 https://booth.pm/ja/items/2207020
