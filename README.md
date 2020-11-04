@@ -20,7 +20,7 @@ Here's the download link: https://github.com/killfrenzy96/KillFrenzyVRCAvatarKey
 
 # Uploading the Example Avatar
 1. Import the "KillFrenzyKeyboard.unitypackage" into your project.
-2. Open the scene located in "Assets/KillFrenzy/Animations/Keyboard/Examples/ExampleAvatar.unity".
+2. Open the scene located in "Assets/KillFrenzy/Animations/Keyboard/Examples/ExampleAvatar_FX.unity".
 3. Open the VRCSDK Control Panel and login to your account.
 4. Build & Publish the "Vrchat_Tutorial_Avatar" model.
 
@@ -44,9 +44,13 @@ Alternatively, see the YouTube Tutorial: https://youtu.be/KKwooIiTcLs
 15. Move the game object from "ArmatureAndThat/Head2/Joint_DesktopAim" into the duplicated head bone.
 16. Browse to your VRC Avatar Descriptor.
 17. Customize your PlayableLayers.
-18. Insert the animator controller from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardControllerAction" into the Action layer.
+18. Insert the animator controller from "Assets/KillFrenzy/Animations/Keyboard/VRCAC_KeyboardController_FX" into the FX layer.
 19. Customize your Expressions.
-20. Insert the VRC Expression Menu from "Assets/KillFrenzy/Animations/Keyboard/VRCEM_KeyboardMenu" into the the Menu.
+20. Insert the VRC Expression Menu from "Assets/KillFrenzy/Animations/Keyboard/VRCEM_KeyboardMenu_FX" into the the Menu.
 21. Insert the VRC Expression Paramaters from "Assets/KillFrenzy/Animations/Keyboard/VRCEP_KeyboardParams" into the the Parameters.
 22. Open the VRCSDK Control Panel and login to your account.
 23. Build & Publish your custom model.
+
+#Useful Tools
+- VRCAvatars3Tools: This tool can be used to merge multiple animators together. Useful if you wanted to merge the keyboard into an existing animator for the FX layer.
+https://booth.pm/ja/items/2207020
