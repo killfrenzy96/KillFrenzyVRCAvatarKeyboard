@@ -43,16 +43,6 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Marker (Desktop)
-    icon: {fileID: 0}
-    type: 102
-    parameter:
-      name: Item
-    value: 4
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
   - name: Draw Fingerpoint / Erase RockNRoll
     icon: {fileID: 0}
     type: 102

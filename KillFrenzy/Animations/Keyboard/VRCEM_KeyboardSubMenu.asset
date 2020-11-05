@@ -33,23 +33,3 @@ MonoBehaviour:
     subMenu: {fileID: 0}
     subParameters: []
     labels: []
-  - name: Keyboard Desktop
-    icon: {fileID: 0}
-    type: 102
-    parameter:
-      name: Keyboard
-    value: 11
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
-  - name: Keyboard Desktop (Flipped Screen)
-    icon: {fileID: 0}
-    type: 102
-    parameter:
-      name: Keyboard
-    value: 12
-    style: 0
-    subMenu: {fileID: 0}
-    subParameters: []
-    labels: []
