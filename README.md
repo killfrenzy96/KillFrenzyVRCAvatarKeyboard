@@ -56,4 +56,4 @@ Alternatively, see the YouTube Tutorial: https://youtu.be/KKwooIiTcLs
 https://booth.pm/ja/items/2207020
 
 # Credits
-marzipanic - Artwork for menu icons
+- marzipanic - Artwork for menu icons
