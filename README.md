@@ -54,3 +54,6 @@ Alternatively, see the YouTube Tutorial: https://youtu.be/KKwooIiTcLs
 # Useful Tools
 - VRCAvatars3Tools: This tool can be used to merge multiple animators together. Useful if you wanted to merge the keyboard into an existing animator for the FX layer.
 https://booth.pm/ja/items/2207020
+
+# Credits
+marzipanic - Artwork for menu icons
