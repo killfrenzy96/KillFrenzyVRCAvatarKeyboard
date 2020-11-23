@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controls:
   - name: Marker
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: f1e782230e004d0419f6bb877f08ad70, type: 3}
     type: 103
     parameter:
       name: 
@@ -24,7 +24,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Keyboard
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 3624a196d3edba143a53a208a6601c6b, type: 3}
     type: 103
     parameter:
       name: 

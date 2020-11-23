@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controls:
   - name: Marker (Right)
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: f1e782230e004d0419f6bb877f08ad70, type: 3}
     type: 102
     parameter:
       name: Item
@@ -24,7 +24,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Marker (Left)
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 417cca51fc4dc0f499dbf0e028d456c2, type: 3}
     type: 102
     parameter:
       name: Item
@@ -34,7 +34,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Marker (Both)
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 677d3e2963b7b2241b62e4350c18c979, type: 3}
     type: 102
     parameter:
       name: Item
@@ -44,7 +44,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Draw Fingerpoint / Erase RockNRoll
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 154d0b442123b88419928a53e0ac1135, type: 3}
     type: 102
     parameter:
       name: MarkerGesture
@@ -54,7 +54,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Draw Fist / Erase RockNRoll
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 19ac4ca143640f544a5a13c9dbe2f92c, type: 3}
     type: 102
     parameter:
       name: MarkerGesture
@@ -64,7 +64,7 @@ MonoBehaviour:
     subParameters: []
     labels: []
   - name: Draw RockNRoll / Erase Fist
-    icon: {fileID: 0}
+    icon: {fileID: 2800000, guid: 178d3754d679b944fa4085b79b43ce4c, type: 3}
     type: 102
     parameter:
       name: MarkerGesture
