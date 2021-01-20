@@ -1,3 +1,14 @@
+# This keyboard currently no longer works since the 2021.1.1 update
+This is a result of the AV3 2021.1.1 Update: https://docs.vrchat.com/docs/latest-release
+
+This change removes the ability for sub-animators to change a parameter. This unfortunately means the end of this keyboard project until there is a new way to perform movement based parameter drivers.
+
+Please vote on this canny here so that we can get a replacement of this feature implemented: https://feedback.vrchat.com/avatar-30/p/feature-request-touch-triggers
+
+This project is now on hold until a solution can be found.
+
+This issue for the keyboard project is open here: https://github.com/killfrenzy96/KillFrenzyVRCAvatarKeyboard/issues/6
+
 # KillFrenzy's Avatar Keyboard
 A custom avatar keyboard that takes advantage of parameter sync. Also includes a custom marker and works in Desktop mode.
 
