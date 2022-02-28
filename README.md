@@ -1,3 +1,7 @@
+# A replacement for this Keyboard is in development
+This project is obselete but I will leave this project here for anyone who wants to use it still. Please check out the new project here that is designed to be used with OSC:
+https://github.com/killfrenzy96/KillFrenzyAvatarText
+
 # This keyboard currently no longer works since the 2021.1.1 update
 This is a result of the AV3 2021.1.1 Update: https://docs.vrchat.com/docs/latest-release
 
