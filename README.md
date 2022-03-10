@@ -1,5 +1,5 @@
 # A replacement for this Keyboard is in development
-This project is obselete but I will leave this project here for anyone who wants to use it still. Please check out the new project here that is designed to be used with OSC and will also feature an in-game keyboard:
+Please check out the new project here that supports OSC and will feature an in-game keyboard!
 
 https://github.com/killfrenzy96/KillFrenzyAvatarText
 
