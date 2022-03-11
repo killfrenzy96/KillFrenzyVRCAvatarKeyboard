@@ -1,5 +1,5 @@
 # A replacement for this Keyboard is in development
-Please check out the new project here that supports OSC and will feature an in-game keyboard!
+Please check out the new project here that supports OSC and also features an in-game keyboard using VRChat's avatar dynamics!
 
 https://github.com/killfrenzy96/KillFrenzyAvatarText
 
